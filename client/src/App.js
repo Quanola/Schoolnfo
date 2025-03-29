@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="app-container">
       <div className="date-display">
-        Wednesday March 26 2025 add
+      Wednesday March 26 2025 add Quanola
       </div>
       <div className="button-group">
         <button className="change-date-button">
